@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="Growth Mindset Project", page_icon="★")
 st.title("Growth Mindset Challenge: Web App with Streamlit")
 
-st.header("welcome to your Growth Journey!")
+st.header("Welcome to your Growth Journey!")
 st.write("Embrace Challenges: View obstacles as opportunities to learn rather than as setbacks.")
 
 #quote section
